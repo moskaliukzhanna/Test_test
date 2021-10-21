@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>TestWatch (Complication).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>TestWatch.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
 		<key>Test_test WatchKit App (Complication).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -17,7 +27,30 @@
 		<key>Test_test.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>20D8BA1F272167F200224442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>20D8BA40272167F300224442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>20D8BA49272167F300224442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>20D8BA75272167F400224442</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
